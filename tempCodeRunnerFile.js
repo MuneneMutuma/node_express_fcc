@@ -1,3 +1,1 @@
-sayHi('susan');
-sayHi(john);
-sayHi(peter);
+ync.txt', `Here is the result:${first}, ${second}`);
