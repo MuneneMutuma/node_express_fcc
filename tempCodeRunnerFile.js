@@ -1,1 +1,0 @@
-ync.txt', `Here is the result:${first}, ${second}`);
